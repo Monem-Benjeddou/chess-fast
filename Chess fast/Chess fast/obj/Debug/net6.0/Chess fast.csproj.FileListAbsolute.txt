@@ -1,0 +1,46 @@
+C:\Users\Admin\Desktop\Porgrammation\Atelier programmation\TP1\EX1.2\Chess fast\Chess fast\bin\Debug\net6.0\Chess fast.exe
+C:\Users\Admin\Desktop\Porgrammation\Atelier programmation\TP1\EX1.2\Chess fast\Chess fast\bin\Debug\net6.0\Chess fast.deps.json
+C:\Users\Admin\Desktop\Porgrammation\Atelier programmation\TP1\EX1.2\Chess fast\Chess fast\bin\Debug\net6.0\Chess fast.runtimeconfig.json
+C:\Users\Admin\Desktop\Porgrammation\Atelier programmation\TP1\EX1.2\Chess fast\Chess fast\bin\Debug\net6.0\Chess fast.dll
+C:\Users\Admin\Desktop\Porgrammation\Atelier programmation\TP1\EX1.2\Chess fast\Chess fast\bin\Debug\net6.0\Chess fast.pdb
+C:\Users\Admin\Desktop\Porgrammation\Atelier programmation\TP1\EX1.2\Chess fast\Chess fast\obj\Debug\net6.0\Chess fast.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Porgrammation\Atelier programmation\TP1\EX1.2\Chess fast\Chess fast\obj\Debug\net6.0\Chess fast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Porgrammation\Atelier programmation\TP1\EX1.2\Chess fast\Chess fast\obj\Debug\net6.0\Chess fast.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Porgrammation\Atelier programmation\TP1\EX1.2\Chess fast\Chess fast\obj\Debug\net6.0\Chess fast.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Porgrammation\Atelier programmation\TP1\EX1.2\Chess fast\Chess fast\obj\Debug\net6.0\Chess fast.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Porgrammation\Atelier programmation\TP1\EX1.2\Chess fast\Chess fast\obj\Debug\net6.0\Chess fast.dll
+C:\Users\Admin\Desktop\Porgrammation\Atelier programmation\TP1\EX1.2\Chess fast\Chess fast\obj\Debug\net6.0\refint\Chess fast.dll
+C:\Users\Admin\Desktop\Porgrammation\Atelier programmation\TP1\EX1.2\Chess fast\Chess fast\obj\Debug\net6.0\Chess fast.pdb
+C:\Users\Admin\Desktop\Porgrammation\Atelier programmation\TP1\EX1.2\Chess fast\Chess fast\obj\Debug\net6.0\Chess fast.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Porgrammation\Atelier programmation\TP1\EX1.2\Chess fast\Chess fast\obj\Debug\net6.0\ref\Chess fast.dll
+C:\Users\Admin\Desktop\Porgrammation\Atelier programmation\TP1\EX1.2\Chess fast\Chess fast\bin\Debug\net6.0\Aspose.Words.Pdf2Word.dll
+C:\Users\Admin\Desktop\Porgrammation\Atelier programmation\TP1\EX1.2\Chess fast\Chess fast\bin\Debug\net6.0\Aspose.Words.dll
+C:\Users\Admin\Desktop\Porgrammation\Atelier programmation\TP1\EX1.2\Chess fast\Chess fast\bin\Debug\net6.0\SkiaSharp.dll
+C:\Users\Admin\Desktop\Porgrammation\Atelier programmation\TP1\EX1.2\Chess fast\Chess fast\bin\Debug\net6.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\Admin\Desktop\Porgrammation\Atelier programmation\TP1\EX1.2\Chess fast\Chess fast\bin\Debug\net6.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\Admin\Desktop\Porgrammation\Atelier programmation\TP1\EX1.2\Chess fast\Chess fast\bin\Debug\net6.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\Admin\Desktop\Porgrammation\Atelier programmation\TP1\EX1.2\Chess fast\Chess fast\bin\Debug\net6.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\Admin\Desktop\Porgrammation\Atelier programmation\TP1\EX1.2\Chess fast\Chess fast\obj\Debug\net6.0\Chess fast.csproj.CopyComplete
+C:\Users\Admin\Desktop\Rep\Chess fast\Chess fast\bin\Debug\net6.0\Chess fast.exe
+C:\Users\Admin\Desktop\Rep\Chess fast\Chess fast\bin\Debug\net6.0\Chess fast.deps.json
+C:\Users\Admin\Desktop\Rep\Chess fast\Chess fast\bin\Debug\net6.0\Chess fast.runtimeconfig.json
+C:\Users\Admin\Desktop\Rep\Chess fast\Chess fast\bin\Debug\net6.0\Chess fast.dll
+C:\Users\Admin\Desktop\Rep\Chess fast\Chess fast\bin\Debug\net6.0\Chess fast.pdb
+C:\Users\Admin\Desktop\Rep\Chess fast\Chess fast\bin\Debug\net6.0\Aspose.Words.Pdf2Word.dll
+C:\Users\Admin\Desktop\Rep\Chess fast\Chess fast\bin\Debug\net6.0\Aspose.Words.dll
+C:\Users\Admin\Desktop\Rep\Chess fast\Chess fast\bin\Debug\net6.0\SkiaSharp.dll
+C:\Users\Admin\Desktop\Rep\Chess fast\Chess fast\bin\Debug\net6.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\Admin\Desktop\Rep\Chess fast\Chess fast\bin\Debug\net6.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\Admin\Desktop\Rep\Chess fast\Chess fast\bin\Debug\net6.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\Admin\Desktop\Rep\Chess fast\Chess fast\bin\Debug\net6.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\Admin\Desktop\Rep\Chess fast\Chess fast\obj\Debug\net6.0\Chess fast.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Rep\Chess fast\Chess fast\obj\Debug\net6.0\Chess fast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Rep\Chess fast\Chess fast\obj\Debug\net6.0\Chess fast.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Rep\Chess fast\Chess fast\obj\Debug\net6.0\Chess fast.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Rep\Chess fast\Chess fast\obj\Debug\net6.0\Chess fast.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Rep\Chess fast\Chess fast\obj\Debug\net6.0\Chess fast.csproj.CopyComplete
+C:\Users\Admin\Desktop\Rep\Chess fast\Chess fast\obj\Debug\net6.0\Chess fast.dll
+C:\Users\Admin\Desktop\Rep\Chess fast\Chess fast\obj\Debug\net6.0\refint\Chess fast.dll
+C:\Users\Admin\Desktop\Rep\Chess fast\Chess fast\obj\Debug\net6.0\Chess fast.pdb
+C:\Users\Admin\Desktop\Rep\Chess fast\Chess fast\obj\Debug\net6.0\Chess fast.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Rep\Chess fast\Chess fast\obj\Debug\net6.0\ref\Chess fast.dll
