@@ -104,37 +104,8 @@ namespace Chess_fast
                             }
                         }
                     }
-                    Console.Write("  ");
-                    for(int i= 0; i < N; i++)
-                    {
-                        if (i < 10)
-                            Console.Write($"--{i}-");
-                        else if (i < 100)
-                            Console.Write($"-{i}-");
-                    }
-                    Console.WriteLine();
 
-                    //draw the board
-                    for (int i = N-1; i >=0; i--)
-                    {
-                        if(i<10)
-                        Console.Write($" {i}|");
-                        else if(i<100)
-                            Console.Write($"{i}|");
-                        for (int j = 0; j < N; j++)
-                        {
-                            
-                            Console.Write($"{board[i, j]}|");
-                        }
-                        Console.WriteLine();
-                        Console.Write("  ");
-                        for (int j=0; j < N; j++)
-                        {
-                            Console.Write("----");
-                        }
-                        Console.WriteLine();
-
-                    }
+                    display(board,N);
                     put_Into_file(board, N);
                     return t.dis;
                 }
@@ -223,6 +194,41 @@ namespace Chess_fast
         }
 
         // Driver code
+        static void display(string[,] board,int N)
+        {
+        Console.Write("  ");
+        for (int i = 0; i < N; i++)
+        {
+            if (i < 10)
+                Console.Write($"--{i}-");
+            else if (i < 100)
+                Console.Write($"-{i}-");
+        }
+        Console.WriteLine();
+
+            //draw the board
+            for (int i = N - 1; i >= 0; i--)
+            {
+                if (i < 10)
+                    Console.Write($" {i}|");
+                else if (i < 100)
+                    Console.Write($"{i}|");
+                for (int j = 0; j < N; j++)
+                {
+
+                    Console.Write($"{board[i, j]}|");
+                }
+                Console.WriteLine();
+                Console.Write("  ");
+                for (int j = 0; j < N; j++)
+                {
+                    Console.Write("----");
+                }
+                Console.WriteLine();
+            }
+
+        }
+
 
     }
 
