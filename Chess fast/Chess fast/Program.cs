@@ -1,7 +1,7 @@
 ﻿using Chess_fast;
-int N = 1000;
+int N = 11;
 int[] knightPos = { 0, 0 };
-int[] targetPos = { 100, 100 };
+int[] targetPos = { 9, 10 };
 
 // Function call
 Console.WriteLine(Prog.minStepToReachTarget(knightPos, targetPos, N));
